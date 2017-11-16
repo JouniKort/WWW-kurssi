@@ -1,0 +1,69 @@
+h1 {
+	font-family: "Courier New", Courier, monospace;
+	align-content: center;
+}
+
+input {
+	background-color:rgba(0, 0, 0, 0);
+    color:black;
+    border: 0px solid #000000;
+    border-bottom-width: 1px;
+    outline:none;
+    height:15px;
+    font-family: "Courier New", Courier, monospace;
+	margin-left:13px;
+}
+
+input[type="submit"] {
+	background-color:rgba(0, 0, 0, 0);
+    color:black;
+    border: none;
+    outline:none;
+    height:15px;
+	font-family: "Courier New", Courier, monospace;
+	position: absolute;
+	right: 50px;
+	top: 80px;
+}
+
+.DatBoi {
+	font-family: "Comic Sans MS", cursive;
+	color: pink !important;
+}
+
+.Hover{
+    border: 1px dashed black;
+    border-radius: 5px;
+}
+
+ul{
+	list-style: none;
+	line-height: 26px;
+	vertical-align: center;
+}
+li{
+	font-family: "Courier New", Courier, monospace;
+}
+
+@media screen and (max-width:500px){
+	/*position: relative , top:0px, left: 0px*/
+	input[type="submit"]{
+		position:relative;
+		display:block;
+		top:7px;
+		left:0px;
+	}
+}
+
+canvas{
+	width: 1000px;
+	height:600px;
+	border: 1px black solid;
+}
+
+#score{
+	width:200px;
+	height: 600px;
+	border: 1px black solid;
+	float: right;
+}

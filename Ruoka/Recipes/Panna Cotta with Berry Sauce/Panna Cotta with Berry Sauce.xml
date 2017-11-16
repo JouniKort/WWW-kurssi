@@ -1,0 +1,118 @@
+<Recipe>
+	<Header>
+		<Name>
+			Panna Cotta with Berry Sauce
+		</Name>
+		<Author>
+			Natasha
+		</Author>
+		<Date>
+			13.10.2016
+		</Date>
+		<Source>
+			http://natashaskitchen.com/2015/10/31/panna-cotta-with-berry-sauce/
+		</Source>
+	</Header>
+	<Description>
+		Panna Cotta is an Italian dessert that looks and tastes fancy but is truly easy to make!
+	</Description>
+	<Ingredients>
+		<Item>
+			<Name>
+				whole milk
+			</Name>
+			<Amount>
+				1 cup
+			</Amount>
+		</Item>
+		<Item>
+			<Name>
+				unflavored gelatin
+			</Name>
+			<Amount>
+				2 1/2 tsp
+			</Amount>
+		</Item>
+		<Item>
+			<Name>
+				heavy whipping cream
+			</Name>
+			<Amount>
+				2 cups
+			</Amount>
+		</Item>
+		<Item>
+			<Name>
+				sugar
+			</Name>
+			<Amount>
+				1/2 cup + 1 TBSP
+			</Amount>
+		</Item>
+		<Item>
+			<Name>
+				pinch of salt
+			</Name>
+			<Amount>
+				1
+			</Amount>
+		</Item>
+				<Item>
+			<Name>
+				vanilla extract
+			</Name>
+			<Amount>
+				1 tsp
+			</Amount>
+		</Item>
+		<Item>
+			<Name>
+				sour cream
+			</Name>
+			<Amount>
+				1 cup
+			</Amount>
+		</Item>
+		<Item>
+			<Name>
+				berries
+			</Name>
+			<Amount>
+				2 cups
+			</Amount>
+		</Item>
+		<Item>
+			<Name>
+				granulated sugar
+			</Name>
+			<Amount>
+				3 TBSP
+			</Amount>
+		</Item>
+		<Item>
+			<Name>
+				lemon juice
+			</Name>
+			<Amount>
+				1/2 TBSP
+			</Amount>
+		</Item>
+	</Ingredients>
+	<Directions>
+		<Step>
+			Off the heat, place 1 cup milk in a medium sauce pan and sprinkle the top with 1 packet gelatin. Let stand 3-5 min or until gelatin is softened. Place pan over medium/low heat and stir until gelatin dissolves and mixture is steaming, about 4-5 min (do not boil).
+		</Step>
+		<Step>
+			Add 2 cups heavy whipping cream, ½ cup + 1 Tbsp sugar, 1 tsp vanilla and a pinch of salt. Continue stirring about 5 min until sugar is fully dissolved and mixture is steaming (do not boil). Remove from heat and let cool 5 minutes.
+		</Step>
+		<Step>
+			Place sour cream in a medium bowl with a pouring lip. Whisking constantly, gradually add warm cream. Once the mixture is completely smooth, divide it into 6 wine glasses or 8 ramekins. Refrigerate until fully set; 4 to 6 hours.
+		</Step>
+		<Step>
+			In a small sauce pan, combine 1 cup berries, ½ Tbsp lemon juice and 3 Tbsp sugar. Bring to a low boil and cook 4-5 min or until syrupy.
+		</Step>
+		<Step>
+			Stir in remaining 1 cup of fresh berries and remove from heat. When syrup is at room temp or just barely warm, spoon it over the top of chilled panna cottas.
+		</Step>
+	</Directions>
+</Recipe>

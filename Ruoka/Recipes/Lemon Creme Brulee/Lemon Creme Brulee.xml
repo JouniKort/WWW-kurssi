@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Recipe>
+	<Header>
+		<Name>
+			Lemon Creme Brulee
+		</Name>
+		<Author>
+			Renee Nicole
+		</Author>
+		<Date>
+			13.10.2016
+		</Date>
+		<Source>
+			http://reneenicoleskitchen.com/lemon-creme-brulee/
+		</Source>
+	</Header>
+	<Description>
+		Lemon Creme Brulee is my ideal Valentine’s Day dessert. A thick creamy texture with a light lemony essence. Serve with strawberries and champagne!
+	</Description>
+	<Ingredients>
+		<Item>
+			<Name>
+				brown sugar
+			</Name>
+			<Amount>
+				3 TBSP
+			</Amount>
+		</Item>
+		<Item>
+			<Name>
+				egg yolks
+			</Name>
+			<Amount>
+				4
+			</Amount>
+		</Item>
+		<Item>
+			<Name>
+				zest of 2 medium sized lemons
+			</Name>
+			<Amount>
+				
+			</Amount>
+		</Item>
+				<Item>
+			<Name>
+				vanilla extract
+			</Name>
+			<Amount>
+				1/2 tsp
+			</Amount>
+		</Item>
+		<Item>
+			<Name>
+				pinch of salt
+			</Name>
+			<Amount>
+				1
+			</Amount>
+		</Item>
+				<Item>
+			<Name>
+				heavy whipping cream
+			</Name>
+			<Amount>
+				1 1/2 cups
+			</Amount>
+		</Item>
+		<Item>
+			<Name>
+				half & half
+			</Name>
+			<Amount>
+				1/2
+			</Amount>
+		</Item>
+		<Item>
+			<Name>
+				white sugar - divided
+			</Name>
+			<Amount>
+				5 TBSP
+			</Amount>
+		</Item>
+		<Item>
+			<Name>
+				strawberries for garnish
+			</Name>
+			<Amount>
+				
+			</Amount>
+		</Item>
+	</Ingredients>
+	<Directions>
+		<Step>
+			Boil hot water, preferably in a tea kettle for easy pouring.
+		</Step>
+		<Step>
+			Heat oven to 300 degrees.
+		</Step>
+		<Step>
+			Zest lemons and separate egg yolks from the whites.
+		</Step>
+		<Step>
+			Whisk together brown sugar, egg yolks, lemon zest, vanilla, and salt in a medium sized bowl.
+		</Step>
+		<Step>
+			Bring cream, half & half, and 3 TBSP of white sugar to a simmer over medium heat. Takes about 5 minutes. Stir occasionally and do not let it boil.
+		</Step>
+		<Step>
+			Slowly pour the warmed cream into the egg yolk mixture, while whisking constantly. Pouring too fast will result in scrambled eggs.
+		</Step>
+		<Step>
+			Allow to sit for 5 minutes to draw the lemon oil out of the zest.
+		</Step>
+		<Step>
+			Strain mixture into a large measuring cup with a pour spout. Squeeze as much of liquid as possible from the lemon zest with the back of the spoon.
+		</Step>
+		<Step>
+			Place your 4 ramekins into a 9x9 inch pan. Divide the custard mixture into the ramekins.
+		</Step>
+		<Step>
+			Pour the boiling water into the pan until it's between 1/2 and 3/4 of the way up the side of the ramekins. Careful not to pour water into the custard.
+		</Step>
+		<Step>
+			Cover with heavy duty aluminum foil and bake 30 - 35 minutes or until centers are set.
+		</Step>
+		<Step>
+			Cool to room temperature then refrigerate for a minimum of three hours.
+		</Step>
+		<Step>
+			Cover each ramekin with 1 1/2 tsp of white sugar, adjusting for ramekin width as needed.
+		</Step>
+		<Step>
+			Brulee the tops with a kitchen torch or under the broiler - checking every minute or so.
+		</Step>
+		<Step>
+			Serve with strawberries and champagne.
+		</Step>
+	</Directions>
+</Recipe>
